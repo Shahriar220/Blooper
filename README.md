@@ -1,2 +1,0 @@
-# Blooper
-full stack app
